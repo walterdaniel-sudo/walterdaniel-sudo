@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @walterdaniel-sudo
-- 👀 I’m interested in desktop dev and applitcation dev
-- 🌱 I’m currently learning python, C lang now
+- 👀 I’m interested in Fullstack Dev
+- 🌱 I’m currently learning python, Js, Git/Github
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
