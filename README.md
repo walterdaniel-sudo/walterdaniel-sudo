@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @walterdaniel-sudo
-- 👀 I’m interested in Fullstack Dev
-- 🌱 I’m currently learning python, Js, Git/Github
+- 👋 Hi, I’m @walterdaniel-sudo.
+- 👀 I’m interested in the best way to waste time.
+- 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
