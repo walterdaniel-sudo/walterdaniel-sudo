@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @walterdaniel-sudo.
-- 👀 I’m interested in the best way to waste time.
+- 👀 I’m interested in the best way that how to waste time.
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
